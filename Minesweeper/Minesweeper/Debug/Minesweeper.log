@@ -1,0 +1,4 @@
+﻿  demo.cpp
+d:\visual studio 2015\projects\minesweeper\minesweeper\minesweeper.h(60): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Minesweeper.vcxproj -> D:\visual studio 2015\Projects\Minesweeper\Debug\Minesweeper.exe
+  Minesweeper.vcxproj -> D:\visual studio 2015\Projects\Minesweeper\Debug\Minesweeper.pdb (Full PDB)
